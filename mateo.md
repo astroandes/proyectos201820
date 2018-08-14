@@ -2,6 +2,7 @@
 
 ### Semana 1 (9 de Agosto)
 * [X] Primer encuentro.
+* [X] Acuerdo reunion semanal los jueves a las 3:00PM.
 * [X] Definicion tareas semana 2.
 
 ### Semana 2 (10 de Agosto)
