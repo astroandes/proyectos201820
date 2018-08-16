@@ -8,7 +8,7 @@
 ### Semana 2 (16 de Agosto)
 Todas las metas ya fueron alcanzadas:
 * [X] Busqueda de imagenes de entrenamiento usadas en Tensor Flow.
-* [X]Reproducir los resultados de clasificacion de imagenes de Tensor Flow. 
+* [X] Reproducir los resultados de clasificacion de imagenes de Tensor Flow. 
       
 ### Semana 3 (23 de Agosto)
 Nuevas tareas
