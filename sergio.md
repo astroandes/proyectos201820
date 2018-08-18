@@ -8,4 +8,5 @@
 
 ### Semana 2 (16 de agosto)
 
+* No hubo reunion. Sigue pendiente la tarea.
 * [ ] Ordenar los resultados actuales con notebooks diferentes para cada clase.
