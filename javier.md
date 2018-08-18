@@ -5,3 +5,5 @@
 * No hubo reunion.
 
 ### Semana 2 (13 Agosto)
+
+* No hubo reunion.
