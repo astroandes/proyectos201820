@@ -14,5 +14,11 @@ Todas las metas ya fueron alcanzadas:
 Nuevas tareas
 * [ ] compartir con Jaime la documentacion de `retrain.py`.
 * [ ] Mateo lee en detalle la documentacion del funcionamiento de `retrain.py`
-* [ ] Empezar a modificar `rosa2.jpg` en espacio de Fourier y ver como cambia el porcentaje de seguridad de la clasificacion.
+* [X] Empezar a modificar `rosa2.jpg` en espacio de Fourier y ver como cambia el porcentaje de seguridad de la clasificacion.
       La modificacion de la imagen explora sistematicamente hacer igual a cero cada una de las amplitudes en el espacio de Fourier.
+
+### Semana 4 (27 Agosto)
+
+* Update por slack. El punto 3 de la semana anterior.
+
+### Semana 5 (3 Septiembre)
