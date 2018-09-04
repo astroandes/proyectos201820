@@ -10,3 +10,13 @@
 
 * No hubo reunion. Sigue pendiente la tarea.
 * [ ] Ordenar los resultados actuales con notebooks diferentes para cada clase.
+
+### Semana 2 (23 de agosto)
+
+* Update corto por slack. Todavia no hay notebook con ninguna clase.
+
+### Semana 4 (30 Agosto)
+
+* Update corto por slack. Todavia no hay notebook con ninguna clase.
+
+### Semana 5 (3 Septiembre)
