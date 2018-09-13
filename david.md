@@ -19,3 +19,8 @@
 ### Semana 5 (3 Septiembre)
 
 * Compromiso para la otra semana: interpolacion 3D de los campos de velocidad suavizados.
+
+### Semana 6 (11 Septiembre)
+
+* Campos suavizados listos en 3D!
+* Para la otra semana: primeros resultados de watershed en 3D.
