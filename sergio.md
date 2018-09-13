@@ -20,3 +20,10 @@
 * Update corto por slack. Todavia no hay notebook con ninguna clase.
 
 ### Semana 5 (3 Septiembre)
+
+* Ya hay resultados basicos para z_true/z_fit en BGS.
+
+### Semana 6 (13 de Septiembre)
+
+* Primeros resultados de ajustes para la varianza y valor medio de alpha=z_true/z_fit como funcion de los flujos individuales.
+* Para la semana que viene: resultados para sigma,mu de las distribuciones de alpha como funcion de dos flujos.
