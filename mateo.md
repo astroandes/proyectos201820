@@ -12,8 +12,8 @@ Todas las metas ya fueron alcanzadas:
       
 ### Semana 3 (23 de Agosto)
 Nuevas tareas
-* [ ] compartir con Jaime la documentacion de `retrain.py`.
-* [ ] Mateo lee en detalle la documentacion del funcionamiento de `retrain.py`
+* [X] compartir con Jaime la documentacion de `retrain.py`.
+* [X] Mateo lee en detalle la documentacion del funcionamiento de `retrain.py`
 * [X] Empezar a modificar `rosa2.jpg` en espacio de Fourier y ver como cambia el porcentaje de seguridad de la clasificacion.
       La modificacion de la imagen explora sistematicamente hacer igual a cero cada una de las amplitudes en el espacio de Fourier.
 
@@ -22,3 +22,9 @@ Nuevas tareas
 * Update por slack. El punto 3 de la semana anterior.
 
 ### Semana 5 (3 Septiembre)
+
+* [X] Ir pixel por pixel en espacio de Fourier dejando en cero los valores a cada frecuencia. Graficar como cambia la efectividad de clasificacion.
+
+### Semana 6. (13 Septiembre)
+
+* [ ] Barrer con un filtro pasabajos parametrizado por el vector de onda k para ver como cambia la efectividad de clasificacion.
